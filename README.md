@@ -31,7 +31,7 @@ Modifie `file_path = "cop.py"` dans le script ou remplace le fichier `cop.py`.
 
 ### 3. Lancer le script
 ```bash
-py script.py
+py main.py
 ```
 
 ---
